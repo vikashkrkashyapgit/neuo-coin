@@ -1,0 +1,14 @@
+{
+  "name": "noopucoin",
+  "version": "1.0.0",
+  "description": "block chain experiment",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create": "node Neou.js"
+  },
+  "author": "vikashkrkashyap",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}
